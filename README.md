@@ -35,7 +35,6 @@ Here are screenshots of my solutions
 ### Links
 
 - Solution URL: https://rupiacodes.github.io/3-column-preview-card-component/
-- 
 
 ## My process
 
